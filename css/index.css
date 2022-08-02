@@ -322,6 +322,11 @@ header .header__logoHinglands p{
     margin-bottom: 30px;
 }
 
+.card{
+    border: 1px solid rgba(0, 0, 0, 0.537);
+    background-color: rgba(0, 0, 0, 0.537);
+}
+
 .products__item .card__img{
     background-color: #141414;
     padding: 20px;
