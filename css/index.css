@@ -324,7 +324,7 @@ header .header__logoHinglands p{
 
 .card{
     border: 1px solid rgba(0, 0, 0, 0.537);
-    background-color: rgba(0, 0, 0, 0.537);
+    background-color: rgba(0, 0, 0, 0.1);
 }
 
 .products__item .card__img{
